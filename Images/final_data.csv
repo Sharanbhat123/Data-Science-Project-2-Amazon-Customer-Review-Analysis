@@ -1,0 +1,711 @@
+,index,label,review,scores,compound,Sentiment_of_the_Review
+0,1,Extremely positive,"What can I say, absolutely I am enjoying iOS experience, and battery life amazing, Best Buy, only thing I missing fingerprint scanner.","{'neg': 0.076, 'neu': 0.519, 'pos': 0.404, 'compound': 0.888}",0.888,Extremely positive
+1,2,Negetive,It’s very irritating each time you have to enter the password.,"{'neg': 0.248, 'neu': 0.752, 'pos': 0.0, 'compound': -0.5095}",-0.5095,Extremely Negetive
+2,3,Neutral,Due to covid we all wear the mask.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+3,4,Extremely positive,"Otherwise best buy Camera is excellent and pictures are sharp,clear,natural.","{'neg': 0.0, 'neu': 0.503, 'pos': 0.497, 'compound': 0.836}",0.836,Extremely positive
+4,5,Negetive,Slightly overpriced but you won’t regret in long term.,"{'neg': 0.316, 'neu': 0.684, 'pos': 0.0, 'compound': -0.5719}",-0.5719,Extremely Negetive
+5,6,Extremely positive,"Almost The Beast One as 12 pro
+Camera is not as 13 pro but the best camers This is another awesome product from Apple..","{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.9253}",0.9253,Extremely positive
+6,7,Extremely positive,"Wonderful Camera quality
+Feather touch
+Good battery
+Superb Night mode Camera
+
+Overall, wonderful phone👍 In one word fantastic….","{'neg': 0.0, 'neu': 0.493, 'pos': 0.507, 'compound': 0.9371}",0.9371,Extremely positive
+7,8,Neutral,Beast of a performer..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+8,9,Extremely positive,"It good right balance of size and performance
+Battery life is major USP of this mobile …
+
+Two major Cons :-
+120 htz refresh rate is must have for this price point
+Charging Speed is bit slow but that could be managed by great battery life Good experience Fantastic red .. just unboxed it so cannot say about anything else .","{'neg': 0.0, 'neu': 0.771, 'pos': 0.229, 'compound': 0.9542}",0.9542,Extremely positive
+9,10,Positive,Loved it .,"{'neg': 0.0, 'neu': 0.204, 'pos': 0.796, 'compound': 0.5994}",0.5994,Extremely positive
+10,11,Positive,Thank you amazon Go on without any hesitation👍 I thought upgrading from 11 to 13 would be a hassle.,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.4939}",0.4939,Positive
+11,12,Neutral,"I could transfer all my data from 11 to 13 very easily, Never even had to connect to a pc or download an app.","{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.4005}",0.4005,Positive
+12,13,Positive,This looks professional colour and perfect👍.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+13,14,Positive,Nice product.,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,Positive
+14,15,Neutral,You don’t need to write anything when it comes to iPhone because iPhone just rules the world.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+15,16,Extremely positive,Simply amazing… price is too much though.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+16,17,Extremely Negetive,The only disappointing thing is that they have stopped giving proper charger and also there is no earphones..,"{'neg': 0.308, 'neu': 0.591, 'pos': 0.101, 'compound': -0.5994}",-0.5994,Extremely Negetive
+17,18,Extremely positive,"Intelligent device with amazing camera ,display ,multitasking support , battery performance and RAM Management Recieved the product in good condition and on time.","{'neg': 0.0, 'neu': 0.592, 'pos': 0.408, 'compound': 0.9081}",0.9081,Extremely positive
+18,19,Positive,Packing was very good.,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4927}",0.4927,Positive
+19,20,Extremely positive,"This is my first apple product 😍 Camera 10/10
+Display 10/10
+Battery 10/10
+No connectivity issue as I have faced in one plus nord 2 and Samsung a52s 5g
+All-rounder phone I have never seen recommended to everyone but expensive just amazing!!!","{'neg': 0.066, 'neu': 0.796, 'pos': 0.138, 'compound': 0.7335}",0.7335,Extremely positive
+20,21,Positive,Original product delivered with very good ackaging & fast delivery.,"{'neg': 0.0, 'neu': 0.56, 'pos': 0.44, 'compound': 0.6697}",0.6697,Extremely positive
+21,22,Extremely positive,Thanks for Amazon my iPhone 13 😍 Good I like this phone .,"{'neg': 0.0, 'neu': 0.375, 'pos': 0.625, 'compound': 0.8402}",0.8402,Extremely positive
+22,23,Neutral,Got on discount in republic sale.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+23,24,Positive,Battery performance is improved by apple.,"{'neg': 0.0, 'neu': 0.617, 'pos': 0.383, 'compound': 0.4767}",0.4767,Positive
+24,25,Extremely positive,Picture quality is awesome.Look wise phone is really attractive and decent.,"{'neg': 0.0, 'neu': 0.589, 'pos': 0.411, 'compound': 0.7425}",0.7425,Extremely positive
+25,26,Positive,Overall performance is good.,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,Positive
+26,27,Positive,However it looks big in hand and slippery.,"{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.4939}",0.4939,Positive
+27,28,Positive,Phone looks good basically the diagonal camera.,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positive
+28,29,Extremely positive,camera quality awesome.,"{'neg': 0.0, 'neu': 0.328, 'pos': 0.672, 'compound': 0.6249}",0.6249,Extremely positive
+29,30,Neutral,I was using I Phone6 then baught this I phone13.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+30,31,Extremely positive,"Best product Excellent phone, far better than previous versions Performance are really brilliant 🤩 , and have to say about the battery life… excellence Too good, Screen display doesn’t feel like you are working with 60hz display, it feels like 90 hz , Phone os is so smooth, camera is excellent battery backup is good.","{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.9867}",0.9867,Extremely positive
+31,32,Extremely positive,Over all excellent phone Nice product .fastest delivery by Amazon and thanks to seller for genuine product .,"{'neg': 0.0, 'neu': 0.539, 'pos': 0.461, 'compound': 0.8779}",0.8779,Extremely positive
+32,33,Extremely positive,Really really awesome model to be in hands..The display has a great variation comparable to the android mobiles.,"{'neg': 0.0, 'neu': 0.631, 'pos': 0.369, 'compound': 0.868}",0.868,Extremely positive
+33,34,Negetive,Just go for it no need any explorer.,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+34,35,Extremely positive,"Best of class
+
+Recommend to wait for any offer
+Got it for 73990 Too good camera and battery life Good display Quite handy n nice in look Best in offering Finally, I gift this mobile to my lovely wife.","{'neg': 0.0, 'neu': 0.523, 'pos': 0.477, 'compound': 0.9787}",0.9787,Extremely positive
+35,36,Negetive,But it's very difficult to live with one kidney!!!,"{'neg': 0.363, 'neu': 0.637, 'pos': 0.0, 'compound': -0.6773}",-0.6773,Extremely Negetive
+36,37,Extremely positive,"Experiencing 1st iphone usage.. battery life is bit down otherwise worth every penny.. iPhone 13 is good connectivity and sound clarity, good experience, photo quality is good, Value for money Don't like Battery life and Charging is very slow compare to One+ Mobiles THIS IS THE BEST SMART PHONE I HAVE USED Nice product and packaging Fabulous.","{'neg': 0.027, 'neu': 0.582, 'pos': 0.391, 'compound': 0.9802}",0.9802,Extremely positive
+37,38,Neutral,Especially 4K HDR video recording and photography.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+38,39,Extremely positive,Nice User Experience Everything was perfect delivery was on time and product delivered perfect.,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.8807}",0.8807,Extremely positive
+39,40,Positive,All in all a good experience.,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,Positive
+40,41,Neutral,Its an phone that feels differently in hand as compared to other phones.,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}",0.4939,Positive
+41,42,Extremely positive,Absolutely amazing camera quality.,"{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.624}",0.624,Extremely positive
+42,43,Positive,The one of the best.,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,Extremely positive
+43,44,Positive,Good Product Good Best in the line 😃 Good Loved the experience of owning the iPhone 13.,"{'neg': 0.0, 'neu': 0.396, 'pos': 0.604, 'compound': 0.9501}",0.9501,Extremely positive
+44,45,Extremely positive,A massive upgrade over the older generation of iPhones Superb phone Sb jordar hai ❤️ Just love the colour and performance as we all know ;) Every thing is just top notch🤩🤩.,"{'neg': 0.0, 'neu': 0.692, 'pos': 0.308, 'compound': 0.9001}",0.9001,Extremely positive
+45,46,Extremely positive,Nice product Best value for money iphone right now.,"{'neg': 0.0, 'neu': 0.39, 'pos': 0.61, 'compound': 0.8555}",0.8555,Extremely positive
+46,47,Extremely positive,"Go for starlight or pink, no finger prints at all Good product
+Camera is superb
+Smoothness is of next level
+Feeling proud and feel honor As expected First phone amazing Liking the device from all the aspects (battery life, performance, software) Go for it .","{'neg': 0.037, 'neu': 0.605, 'pos': 0.358, 'compound': 0.959}",0.959,Extremely positive
+47,48,Positive,Play Video The battery life and camera of this phone is very good.,"{'neg': 0.0, 'neu': 0.663, 'pos': 0.337, 'compound': 0.6801}",0.6801,Extremely positive
+48,49,Positive,I am upgrade with newer version once they have it Good phone.,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}",0.4404,Positive
+49,50,Neutral,Got delivered quickly.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+50,51,Neutral,Battery life is extra ordinary.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+51,52,Neutral,Performance is better.,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,Positive
+52,53,Positive,"seems very good, let's see long term the long term use Shifted to iOS for the first time.","{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.4927}",0.4927,Positive
+53,54,Positive,Happy with the purchase.,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,Extremely positive
+54,55,Neutral,Battery Camera OS everything’s buttery smooth!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+55,56,Extremely positive,This is my first iPhone and the experience has been amazing.,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.5859}",0.5859,Extremely positive
+56,57,Neutral,Iphone13 Quality is above all the existing smartphones in the world.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+57,58,Extremely positive,Best phone Quite Awsome Phone everything is perfect.,"{'neg': 0.0, 'neu': 0.432, 'pos': 0.568, 'compound': 0.836}",0.836,Extremely positive
+58,59,Extremely positive,amazon delivery and exchange was awesome.,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.7003}",0.7003,Extremely positive
+59,60,Extremely positive,i bought i phone 13 starlight few days ago... just wow... love it..,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.6369}",0.6369,Extremely positive
+60,61,Neutral,While playing camera and video recording the phone is getting heated Received in two days!,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.2714}",0.2714,Positive
+61,62,Extremely positive,Amazing package and authentic product!,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6239}",0.6239,Extremely positive
+62,63,Extremely positive,My first iphone and there is nothing better…Go for it..Absolutely Fabulous Iphone13 Quality is above all the existing smartphones in the world.,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.5267}",0.5267,Extremely positive
+63,64,Extremely positive,Best phone Quite Awsome Phone everything is perfect.,"{'neg': 0.0, 'neu': 0.432, 'pos': 0.568, 'compound': 0.836}",0.836,Extremely positive
+64,65,Extremely positive,amazon delivery and exchange was awesome.,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.7003}",0.7003,Extremely positive
+65,66,Extremely positive,i bought i phone 13 starlight few days ago... just wow... love it..,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.6369}",0.6369,Extremely positive
+66,67,Neutral,While playing camera and video recording the phone is getting heated Received in two days!,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.2714}",0.2714,Positive
+67,68,Extremely positive,Amazing package and authentic product!,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6239}",0.6239,Extremely positive
+68,69,Extremely positive,"My first iphone and there is nothing better…Go for it..Absolutely Fabulous It’s an amazing phone….First time IPhone user, great user interface…Sexy looking phone.","{'neg': 0.0, 'neu': 0.639, 'pos': 0.361, 'compound': 0.9062}",0.9062,Extremely positive
+69,70,Extremely positive,"Nice phone and battery backup improve other iphone Great filling Value for money , quite good performance Camera is superb As Expected iphone rocks.. High price One of the finest creation from apple loving it It’s a wonderful phone.","{'neg': 0.0, 'neu': 0.49, 'pos': 0.51, 'compound': 0.9821}",0.9821,Extremely positive
+70,71,Positive,Iphone 13 is very beautiful phone...& very simple.. phone..,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6361}",0.6361,Extremely positive
+71,72,Positive,Product is very good.,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4927}",0.4927,Positive
+72,73,Extremely positive,I am happy with this product genuine product by amazon thanku loved to buy it Phone was nice and delivery was late Best in this range Got delivered in 1.5days.,"{'neg': 0.0, 'neu': 0.596, 'pos': 0.404, 'compound': 0.946}",0.946,Extremely positive
+73,74,Neutral,Amazing Amazon!!,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.7256}",0.7256,Extremely positive
+74,75,Extremely positive,Overall good buy Ok Worth every penny An expensive one.,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.7184}",0.7184,Extremely positive
+75,76,Extremely positive,"Awesome product Let’s see how it work Amazing phone🤩battery ,everything Mobile nice Just superb phone.","{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.9413}",0.9413,Extremely positive
+76,77,Extremely positive,Amazing phone Awesome.,"{'neg': 0.0, 'neu': 0.112, 'pos': 0.888, 'compound': 0.836}",0.836,Extremely positive
+77,78,Extremely positive,Ty amazon Mostly liked It’s worthy!,"{'neg': 0.0, 'neu': 0.163, 'pos': 0.837, 'compound': 0.8516}",0.8516,Extremely positive
+78,79,Positive,Like Nice Worth every penny.,"{'neg': 0.0, 'neu': 0.217, 'pos': 0.783, 'compound': 0.7351}",0.7351,Extremely positive
+79,80,Extremely positive,Purely loved it 💙 Value for money Decent battery life Great Good product Good Awesome ✌️ Very sharp display Ok Was using 11 before this.,"{'neg': 0.0, 'neu': 0.422, 'pos': 0.578, 'compound': 0.973}",0.973,Extremely positive
+80,81,Positive,Wanted to go for 13 pro.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+81,82,Positive,Wished 120 hertz pro motion display in my phone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+82,83,Neutral,But that costed way too much.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+83,84,Neutral,Nevertheless this standard 13 model is not too behind.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+84,85,Neutral,Almost same cameras.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+85,86,Extremely positive,Amazing battery life and speakers.,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.5859}",0.5859,Extremely positive
+86,87,Neutral,And build is similar to 12 offourse but functionality is better.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.5927}",0.5927,Extremely positive
+87,88,Positive,Great changes from 12 especially in camera and battery.,"{'neg': 0.0, 'neu': 0.661, 'pos': 0.339, 'compound': 0.6249}",0.6249,Extremely positive
+88,89,Positive,Perfect value smartphone in 72000₹ (128gb).,"{'neg': 0.0, 'neu': 0.396, 'pos': 0.604, 'compound': 0.7269}",0.7269,Extremely positive
+89,90,Neutral,IOS is IOS.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+90,91,Positive,Ecosystem is unmatched.,"{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.0772}",-0.0772,Negetive
+91,92,Positive,Hence for me a perfect phone.,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.5719}",0.5719,Extremely positive
+92,93,Negetive,"Long time android user here, I bought the iPhone 13 as a replacement of my android mid range and also to shoot Youtube videos as I think an iPhone offers better value than any 60-70k vlogging cam.","{'neg': 0.062, 'neu': 0.801, 'pos': 0.137, 'compound': 0.4404}",0.4404,Positive
+93,94,Positive,"Absolutely love the camera, battery backup, the build quality-just no words there.","{'neg': 0.132, 'neu': 0.599, 'pos': 0.269, 'compound': 0.5095}",0.5095,Extremely positive
+94,95,Negetive,"Unlike android, I do not have to worry for extended zoom and g calls--very reliable.","{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.3412}",0.3412,Positive
+95,96,Neutral,"Definitely, Apple got another long time iPhone customer.","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.4019,Positive
+96,97,Negetive,"Upgraded from 8 plus to 13, so far I lovee the camera settings and it’s display, the battery life is something I didn’t expect from specially Iphone, the charge cycle is unbelievable!!","{'neg': 0.0, 'neu': 0.922, 'pos': 0.078, 'compound': 0.3365}",0.3365,Positive
+97,98,Positive,If I charge my phone in the morning then it’s good to go for an entire day to use it!!,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.5399}",0.5399,Extremely positive
+98,99,Positive,I’m glad I purchased it!,"{'neg': 0.0, 'neu': 0.477, 'pos': 0.523, 'compound': 0.5093}",0.5093,Extremely positive
+99,100,Positive,took some time to adapt the new interface from android but its all worth it in the end.,"{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.3291}",0.3291,Positive
+100,101,Positive,What's Great?,"{'neg': 0.0, 'neu': 0.196, 'pos': 0.804, 'compound': 0.6249}",0.6249,Extremely positive
+101,102,Neutral,1,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+102,103,Neutral,"Display
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+103,104,Neutral,"Camera
+3.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+104,105,Neutral,"Stereo Sound
+4.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+105,106,Neutral,"Battery
+5.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+106,107,Negetive,"User Interface
+
+What you will miss?","{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}",-0.1531,Negetive
+107,108,Neutral,1,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+108,109,Neutral,"Fingerprint scanner
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+109,110,Neutral,Jio switch to video call directly from voice call (Facetime !),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+110,111,Positive,Phone is excellent.,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,Extremely positive
+111,112,Neutral,IOS is very smooth.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+112,113,Positive,Battery backup excellent.,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,Extremely positive
+113,114,Negetive,The problem lies with the accessories that you will be forced to purchase.,"{'neg': 0.459, 'neu': 0.541, 'pos': 0.0, 'compound': -0.8176}",-0.8176,Extremely Negetive
+114,115,Negetive,There is no charger.,"{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+115,116,Neutral,(Additional Rs.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+116,117,Neutral,1900 for apple charger).,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+117,118,Neutral,The cable is type c to lightning.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+118,119,Neutral,(Additional Rs.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+119,120,Neutral,1000 for certified belkin usb to lightning cable; apple cable >2000).,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+120,121,Negetive,No headphones.,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+121,122,Neutral,(additional Rs.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+122,123,Neutral,2000 for other brand earbuds).,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+123,124,Negetive,No cover and screen guard.,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+124,125,Neutral,"So for this price you will get phone, cable, sim ejector pin.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+125,126,Positive,"Im not satisfied with this cable, they should have provided usb to lightning cable.","{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.3252}",-0.3252,Negetive
+126,127,Neutral,"Play Video
+ Best mobile.","{'neg': 0.0, 'neu': 0.233, 'pos': 0.767, 'compound': 0.765}",0.765,Extremely positive
+127,128,Extremely positive,Best thing is cinematic video recording and as well as nice picture quality.,"{'neg': 0.0, 'neu': 0.524, 'pos': 0.476, 'compound': 0.8442}",0.8442,Extremely positive
+128,129,Positive,Update from iphone 11 to 13 and liked it.,"{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}",0.4215,Positive
+129,130,Extremely positive,"Actually I am Android user since 10 Years & Now I Switched to Iphone Yes its little difficult to adjust and comfortable with iphone it's take almost 1 week to friendly with them
+Otherwise I am Student so as a student usage The Battery gives me almost 1.5 Days with once full charge & No Doubt Performance is Next Level
+Camera is Good Both Rear & Front But you will miss Telephoto Lense but overall is good
+I got Huge Discount it's almost I spend 63,000/- INR for 128 GB
+
+Trust me If you have sufficient Fund Go for it
+Otherwise Next Option is Iphone 12 for 50,000/- I think in this price is Good
+
+Thanks Apple iphone quality is good.","{'neg': 0.051, 'neu': 0.719, 'pos': 0.23, 'compound': 0.9773}",0.9773,Extremely positive
+130,131,Extremely positive,"Battery life is good initially, hope it remains same for some time.","{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.7003}",0.7003,Extremely positive
+131,132,Negetive,Money wise all apple products are costly.,"{'neg': 0.147, 'neu': 0.526, 'pos': 0.326, 'compound': 0.4019}",0.4019,Positive
+132,133,Extremely positive,"I saw in nearby stores
+It looks almost like iphone 12 except camera position
+Both the phones are awesome
+Whoever is having money can go for it
+But people like me can see in stores this thing is absolute beast in battery when compared to other iPhone's.","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.7153}",0.7153,Extremely positive
+133,134,Positive,I used note 20 ultra before and i am getting nearly the same battery life with this phone in this perfect shape.,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.657}",0.657,Extremely positive
+134,135,Extremely positive,I am super happy about my purchase.,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.8225}",0.8225,Extremely positive
+135,136,Positive,The camera is really great with some new features.,"{'neg': 0.0, 'neu': 0.646, 'pos': 0.354, 'compound': 0.659}",0.659,Extremely positive
+136,137,Negetive,"if u are looking for a new apple device and your budget is 80k+ u can definitely buy this and not regret.💯 Before this i have samsung and i never click self image standing in front of the mirror tab ""Mausi"" ne kaha Apple lelo aur ab shakal kesi bhi aaye selfie mirror k aage.","{'neg': 0.0, 'neu': 0.947, 'pos': 0.053, 'compound': 0.4019}",0.4019,Positive
+137,138,Extremely positive,"Note: 1 saal ruppee showoff k liye hi dete h mostly Apple lene wale log Buy from Dubai not worth 90,000 phone is good ; battery life is amazing and nice true good and nice Just received this in the morning.","{'neg': 0.034, 'neu': 0.604, 'pos': 0.362, 'compound': 0.9463}",0.9463,Extremely positive
+138,139,Positive,My mother loves the red colour.,"{'neg': 0.0, 'neu': 0.575, 'pos': 0.425, 'compound': 0.5719}",0.5719,Extremely positive
+139,140,Extremely positive,"Also, the camera’s pretty impressive.","{'neg': 0.0, 'neu': 0.316, 'pos': 0.684, 'compound': 0.7579}",0.7579,Extremely positive
+140,141,Neutral,Haven’t tested the battery yet.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+141,142,Neutral,"But, I’m sure it’s much better than the previous versions.","{'neg': 0.0, 'neu': 0.541, 'pos': 0.459, 'compound': 0.7783}",0.7783,Extremely positive
+142,143,Positive,The best part is that Red colour’s not flashy.,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6369}",0.6369,Extremely positive
+143,144,Neutral,"In 2022 atlas switched to iPhone, switched to IOS from Android.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+144,145,Extremely positive,"Awesome lightning fast IOS, Display, camera, battery life.","{'neg': 0.0, 'neu': 0.631, 'pos': 0.369, 'compound': 0.6249}",0.6249,Extremely positive
+145,146,Extremely positive,"Overall good experience This is my first i phone , camera is amazing ,battery is good overall feel is mind blowing , go for it if its your 1st iPhone The price is directly proportional to the features.","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.8625}",0.8625,Extremely positive
+146,147,Positive,Everything is perfect no issues.,"{'neg': 0.247, 'neu': 0.337, 'pos': 0.416, 'compound': 0.3612}",0.3612,Positive
+147,148,Extremely positive,"If you want to switch to an iPhone, this is the perfect phone.","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.6124}",0.6124,Extremely positive
+148,149,Positive,Brand wise good phone.,"{'neg': 0.0, 'neu': 0.25, 'pos': 0.75, 'compound': 0.7184}",0.7184,Extremely positive
+149,150,Extremely positive,Though expensive but better for those who don't have much use and they are looking for safety quality and brand One day I will purchase it :) still a big dream saving money for buying it after 10 years atleast :( Mind blowing phone next level photography and camera quality infact battery life is also inproved much Its value for money no doubt First of all all those chapri who gonna buy it from emi will cry that it is same like iPhone 12 and doesn't have adaptor.,"{'neg': 0.127, 'neu': 0.688, 'pos': 0.185, 'compound': 0.7469}",0.7469,Extremely positive
+150,151,Extremely positive,Lol then why you bought this😂 Good product and using for personal use.,"{'neg': 0.0, 'neu': 0.659, 'pos': 0.341, 'compound': 0.6908}",0.6908,Extremely positive
+151,152,Neutral,The device is working well.Not facing any glitches.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+152,153,Positive,Highly recommended product for everyone .,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2716}",0.2716,Positive
+153,154,Positive,Camera has improved many folds.,"{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.4767}",0.4767,Positive
+154,155,Extremely positive,Battery improvement is like wooooowwww!!!,"{'neg': 0.0, 'neu': 0.32, 'pos': 0.68, 'compound': 0.7488}",0.7488,Extremely positive
+155,156,Neutral,It’s a go go if you own iphone 11 or older.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+156,157,Positive,"Go and buy this phone
+
+It has apple bionic 15 chipset which is very powerful.","{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.4754}",0.4754,Positive
+157,158,Extremely positive,You can play hardcore games like pro players love the phone... its amazing the camera quality is so good...apple never disappoints.. though people with iPhone 12 wouldn't find anything new Best phone ever .,"{'neg': 0.0, 'neu': 0.621, 'pos': 0.379, 'compound': 0.9524}",0.9524,Extremely positive
+158,159,Extremely positive,"I was using iphone 12 but now I had upgrade to 13 thanks Amazon thank a lot It's good phone more stora it's camera and well only nice phone iPhone 13 it's better and all good Apple I phone 13 having lot of good features but difficulties for sr people..missing home button, no call recording, need to buy c type charger etc..","{'neg': 0.068, 'neu': 0.558, 'pos': 0.375, 'compound': 0.9783}",0.9783,Extremely positive
+159,160,Extremely positive,"Battery camera smooth touch awesome white colour best colour I am very impressed with the quality of the product .. Truely amazed with its performance, though I miss my second kidney ....","{'neg': 0.039, 'neu': 0.603, 'pos': 0.359, 'compound': 0.9359}",0.9359,Extremely positive
+160,161,Extremely positive,"Still happy and surviving... Go for it today... Best batteryyy life everr👍🏻👍🏻👍🏻👍🏻
+Go for it..i m in love with iphone 13
+Osm phone with osm battery life
+✌️ Beast performance 🔥 battery life is better but problem with this is unable to scan codes apart from that 13 is unbeatable Best I phone
+I’ll upgrade from 11
+Pro
+To 13 pro
+Beast phone
+Best in camera
+No words for.Apple
+K TOTALLY DIFFERENT FROM IPHONE 12 BETTER CAMERA FASTER PROCESSOR AND BETTER BATTRY LIFE A MUST BUY.","{'neg': 0.059, 'neu': 0.655, 'pos': 0.286, 'compound': 0.9791}",0.9791,Extremely positive
+161,162,Positive,THE BEST PHONE EVER MADE.,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,Extremely positive
+162,163,Extremely positive,"Gud product and performance both are perfectly work service is also Gud pictures thanks apple for Gud gadgets thanks thanks I didn't use the product but this is very hard security device and it's my dream..
+And you also purchase the iphone13 This product is duplicate of iPhone 12 only camera design changed.","{'neg': 0.034, 'neu': 0.767, 'pos': 0.199, 'compound': 0.8372}",0.8372,Extremely positive
+163,164,Positive,"Very low quality of this product Buy Samsung mobile phone I can't afford it's cover 😂😂😂😂
+
+And you are giving discount on that phone 😂 I can only use its launcher 😂😂 Good but buy i phone 12 for this price that is much good in my opinion and 11 pro i Ignore the negative comments made by amateurs.","{'neg': 0.153, 'neu': 0.733, 'pos': 0.115, 'compound': -0.5418}",-0.5418,Extremely Negetive
+164,165,Neutral,"Reasons for upgrade :
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+165,166,Positive,"Camera: Bigger camera aperture, OIS, cinematic mode.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+166,167,Extremely positive,Low light pictures are outstanding as you can see the 2nd picture of the flower taken at night.,"{'neg': 0.095, 'neu': 0.724, 'pos': 0.181, 'compound': 0.4404}",0.4404,Positive
+167,168,Neutral,Also some of the pictures during daylight for reference.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+168,169,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+169,170,Positive,Battery: Apple has really done a good job in battery management.,"{'neg': 0.0, 'neu': 0.739, 'pos': 0.261, 'compound': 0.4902}",0.4902,Positive
+170,171,Positive,It's giving a good battery back up.,"{'neg': 0.0, 'neu': 0.43, 'pos': 0.57, 'compound': 0.6486}",0.6486,Extremely positive
+171,172,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+172,173,Neutral,Processor: New A15 processor and better performance.,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positive
+173,174,Neutral,4,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+174,175,Positive,Software: This is the usual strong point of any iPhone with iOS.,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.5106}",0.5106,Extremely positive
+175,176,Neutral,5,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+176,177,Negetive,Storage: Not to forget you’re now getting 128 gigs as base storage compared to 64 gigs last year on base model price.,"{'neg': 0.0, 'neu': 0.926, 'pos': 0.074, 'compound': 0.1695}",0.1695,Positive
+177,178,Neutral,"Who should buy this phone:
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+178,179,Negetive,If you're already using an iPhone 12 don't bother to upgrade.,"{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.2584}",0.2584,Positive
+179,180,Neutral,Wait for next year release.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+180,181,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+181,182,Neutral,Those who are using iPhone 10 or previous versions can surely feel much of a difference.,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,Positive
+182,183,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+183,184,Negetive,"Price gap: Iphone 12 is 70,000 INR with no offers at present.","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+184,185,Neutral,Iphone 13 with 6000 discount on HDFC Cards makes the actual price around 74000.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+185,186,Positive,It makes no sense to save 4000 and buy an year old device iPhone 12 if you’re upgrading from iPhone 10 or previous versions.,"{'neg': 0.08, 'neu': 0.803, 'pos': 0.117, 'compound': 0.25}",0.25,Positive
+186,187,Neutral,4. iPhone 12 purchase will only make sense compared to iPhone 13 if it's price gets reduced to 55000.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+187,188,Neutral,"Customer Expectations:
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+188,189,Neutral,At least an always on display.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+189,190,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+190,191,Neutral,On display fingerprint scanner.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+191,192,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+192,193,Neutral,A 90hz refresh rate if not 120hz for iPhone 13 model.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+193,194,Negetive,In India we are paying a lot for base models.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+194,195,Neutral,"Oneplus 7 to IPhone 13
+
+The UI and feel which iphone gives is mind blowing.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+195,196,Neutral,I’ve been using iPhone 6s for almost last 6 years.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+196,197,Negetive,The only problem I ever faced in its entire lifespan was the battery life.,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negetive
+197,198,Neutral,And Apple has finally broken that.,"{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.4767}",-0.4767,Negetive
+198,199,Extremely positive,"Apart from amazing user experience, camera, and all that is great about iPhone, the battery life of iPhone 13 is simply awesome.","{'neg': 0.0, 'neu': 0.613, 'pos': 0.387, 'compound': 0.9186}",0.9186,Extremely positive
+199,200,Neutral,Do not doubt for a second if you want to upgrade your phone.,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.3421}",0.3421,Positive
+200,201,Neutral,Jus go for it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+201,202,Extremely positive,"May not be the best one to upgrade to, but I absolutely loved this phone as a first time iPhone user.","{'neg': 0.087, 'neu': 0.681, 'pos': 0.232, 'compound': 0.6814}",0.6814,Extremely positive
+202,203,Neutral,Battery and Camera are better than expected.,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positive
+203,204,Neutral,I have purchased my first Iphone every.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+204,205,Extremely positive,"I can say camera is best in market (Vivo v70 pro+ is biggest competitor), Build quality is good with lots of new feature.","{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.7964}",0.7964,Extremely positive
+205,206,Neutral,"if you are iphone 12 user, I will not suggest to you.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+206,207,Negetive,Because there is no much difference between 12 and 13.,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+207,208,Extremely positive,"But if you are purchasing new iphone or upgrading from 11 or below, then you can recommend this as best option.","{'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.8765}",0.8765,Extremely positive
+208,209,Positive,"Iphone competitor samsung is providing foldable phone but they are not worth to buy because foldable are attractive for the first time only, after that you will see the bend clearly.","{'neg': 0.053, 'neu': 0.749, 'pos': 0.198, 'compound': 0.7507}",0.7507,Extremely positive
+209,210,Extremely positive,Feedback : This is fully satisfied with cool features This is first time iam using an Apple smartphone and iam completely satisfied with this product in Major areas with compare to other android devices and this is the next level experience of using iPhone 13 service device Superb mobile from Apple.,"{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.9161}",0.9161,Extremely positive
+210,211,Positive,Improved camera.,"{'neg': 0.0, 'neu': 0.244, 'pos': 0.756, 'compound': 0.4767}",0.4767,Positive
+211,212,Positive,Very Impressive battery.,"{'neg': 0.0, 'neu': 0.358, 'pos': 0.642, 'compound': 0.5563}",0.5563,Extremely positive
+212,213,Positive,The screen is much brighter.,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.3818}",0.3818,Positive
+213,214,Extremely positive,Pretty Pink Color with amazing features apple has added to the new phone!,"{'neg': 0.0, 'neu': 0.601, 'pos': 0.399, 'compound': 0.807}",0.807,Extremely positive
+214,215,Neutral,Feels very light while holding the phone!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+215,216,Extremely positive,Happy customer ❤️ Good one n nice color…go for it camera feature has modified… u can go only u r a apple lover otherwise go for 12 I am having a great exprience with it after upgrading from my Xr .,"{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.9538}",0.9538,Extremely positive
+216,217,Neutral,"It feels lighter than my Xr too & find the display really Crisp as earlier i was using an LCD display After iPhone 4, I am going back to the Apple ecosystem, by purchasing iPhone 13.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+217,218,Neutral,In the meantime I have used several Android and Windows phones.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+218,219,Positive,"This is the best, though at a much higher cost.","{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6369}",0.6369,Extremely positive
+219,220,Positive,"The battery life is a surprise, with a good life of over almost two days, with normal use.","{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.6124}",0.6124,Extremely positive
+220,221,Positive,I wanted to upgrade from iPhone 7 to latest and I believe I did right in purchasing iPhone 13.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+221,222,Extremely positive,"Very happy with look and feel , Performance and Battery The phone is really good and the response is better than my earlier iphone11.","{'neg': 0.0, 'neu': 0.665, 'pos': 0.335, 'compound': 0.8775}",0.8775,Extremely positive
+222,223,Neutral,Camera is fab and the cinematic mode really do the magic.,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4588}",0.4588,Positive
+223,224,Neutral,"However, it is too expensive for the price, which is mainly bcoz of the Apple brand.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+224,225,Negetive,"Also, Apple not providing charger for environment purposes, is fake and I do not agree to it.","{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.6381}",-0.6381,Extremely Negetive
+225,226,Negetive,It is another way of selling accessories at extremely high and bizarre margins.,"{'neg': 0.176, 'neu': 0.824, 'pos': 0.0, 'compound': -0.3744}",-0.3744,Negetive
+226,227,Extremely positive,iPhone 13 looks awesome with great performance and good camera quality totally liked it.,"{'neg': 0.0, 'neu': 0.413, 'pos': 0.587, 'compound': 0.9348}",0.9348,Extremely positive
+227,228,Extremely positive,"Play Video
+ Everything about this phone is best♥️
+GREAT BATTERY 🔋
+GREAT CAMERA 📸
+GREAT DESIGN♥️ If you are switching from qndroid to iso, then this is a good decision.","{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.9674}",0.9674,Extremely positive
+228,229,Positive,Excellent battery life and camera.,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.5719}",0.5719,Extremely positive
+229,230,Neutral,Just go for it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+230,231,Extremely positive,It’s a great upgrade…camera is good..,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6249}",0.6249,Extremely positive
+231,232,Positive,"Pro: Brighter display, Great cameras, and A15 bionic chip
+Cons: Lacks fast charging.","{'neg': 0.0, 'neu': 0.621, 'pos': 0.379, 'compound': 0.7717}",0.7717,Extremely positive
+232,233,Extremely positive,"Battery life is a pleasant surprise, and with a 20W chargers it’s a good experience.","{'neg': 0.0, 'neu': 0.52, 'pos': 0.48, 'compound': 0.8074}",0.8074,Extremely positive
+233,234,Extremely positive,"With the camera enhancements, it’s feels like a good value for Money Must buy.","{'neg': 0.0, 'neu': 0.562, 'pos': 0.438, 'compound': 0.7783}",0.7783,Extremely positive
+234,235,Positive,Value for money Loved it !,"{'neg': 0.0, 'neu': 0.313, 'pos': 0.687, 'compound': 0.7644}",0.7644,Extremely positive
+235,236,Extremely positive,Battery Life is awesome.,"{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}",0.6249,Extremely positive
+236,237,Positive,Since I had issues with my previous iPhone battery i am quite satisfied with this one.,"{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.4754}",0.4754,Positive
+237,238,Extremely positive,Best iPhone I have had in a while I get iphone 13 thanks amazon The midnight colour is little bit like navy blue and besides all the things are good and also I like the new cinematic mode of it.,"{'neg': 0.0, 'neu': 0.65, 'pos': 0.35, 'compound': 0.9342}",0.9342,Extremely positive
+238,239,Extremely positive,It’s good Great to use!,"{'neg': 0.0, 'neu': 0.291, 'pos': 0.709, 'compound': 0.807}",0.807,Extremely positive
+239,240,Extremely positive,Has an amazing camera.,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}",0.5859,Extremely positive
+240,241,Neutral,Quite light and looks stylish.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+241,242,Extremely positive,My first iphone Good Good product Battery life great full day backup Nice one ❤️ This phone has AMAZING FEATURES idk why people hate it this deserves to be liked more as the phone even has CINEMATIC MODE perfect for people who make movies I switched from Oneplus 5t to iPhone 13.,"{'neg': 0.072, 'neu': 0.593, 'pos': 0.335, 'compound': 0.9619}",0.9619,Extremely positive
+242,243,Neutral,The reasons I switched was 1.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+243,244,Positive,Battery life of Oneplus 5t deteriorated rapidly and OnePlus hardly cared to explain this.,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.3626}",0.3626,Positive
+244,245,Negetive,I also suspected that OnePlus deliberately created a bug that led to sudden drop in battery life.,"{'neg': 0.222, 'neu': 0.667, 'pos': 0.111, 'compound': -0.25}",-0.25,Negetive
+245,246,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+246,247,Positive,Wanted to get an Android phone but could not find even one decent phone that did not have heating issues.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+247,248,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+248,249,Negetive,Oneplus device also suffered from Screenburn.,"{'neg': 0.39, 'neu': 0.61, 'pos': 0.0, 'compound': -0.4939}",-0.4939,Negetive
+249,250,Negetive,"Having switched the battery life is sorted and the phone does not have any heating issues but iPhones lack basic features such as
+
+1.","{'neg': 0.114, 'neu': 0.886, 'pos': 0.0, 'compound': -0.4497}",-0.4497,Negetive
+250,251,Neutral,"Display of date and time on status bar
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+251,252,Negetive,The rounded edges of the phone create a problem as some apps with options at the bottom of the screen are not properly displayed.,"{'neg': 0.105, 'neu': 0.814, 'pos': 0.081, 'compound': -0.1531}",-0.1531,Negetive
+252,253,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+253,254,Positive,Amazon App does not allow purchase if Kindle books on iOS devices.,"{'neg': 0.125, 'neu': 0.748, 'pos': 0.127, 'compound': 0.0088}",0.0088,Positive
+254,255,Neutral,4,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+255,256,Negetive,Typing is a problem as the screen is smaller compared to a OnePlus device.,"{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negetive
+256,257,Positive,"Overall, I am neither too happy nor too sad with the purchase though I must confess that price of the phone seems exorbitant vis a vis the value delivered.","{'neg': 0.097, 'neu': 0.743, 'pos': 0.16, 'compound': 0.2396}",0.2396,Positive
+257,258,Extremely positive,I always wanted to buy an iPhone this one is just made for me it's has a very good camera and I just love the look.,"{'neg': 0.0, 'neu': 0.74, 'pos': 0.26, 'compound': 0.8122}",0.8122,Extremely positive
+258,259,Positive,If you are going for iphone than I highly recommend this phone to you other than other than 12 or 11.,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.4201}",0.4201,Positive
+259,260,Neutral,I switched from OnePlus 6T to iPhone 13.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+260,261,Extremely positive,Just a fabulous mobile.,"{'neg': 0.0, 'neu': 0.37, 'pos': 0.63, 'compound': 0.5267}",0.5267,Extremely positive
+261,262,Extremely positive,Amazing camera just like a DSLR in pocket.,"{'neg': 0.0, 'neu': 0.442, 'pos': 0.558, 'compound': 0.743}",0.743,Extremely positive
+262,263,Negetive,I purchased my iPhone 13 from iPrime store because of same price online & offline.,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.128}",-0.128,Negetive
+263,264,Neutral,"Bought it at ₹ 81,800.00 (iPhone+ 20w adapter).","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+264,265,Negetive,"I have no money to buy this ph , i am poor guy, kind hearted person can gift a i phone any model no problem .","{'neg': 0.334, 'neu': 0.459, 'pos': 0.207, 'compound': -0.4404}",-0.4404,Negetive
+265,266,Extremely positive,May god bless you 🙏🙏🙏🙏 This is the best iPhone till date.,"{'neg': 0.0, 'neu': 0.497, 'pos': 0.503, 'compound': 0.8442}",0.8442,Extremely positive
+266,267,Neutral,Same price.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+267,268,Extremely positive,Superb battery and awesome camera.,"{'neg': 0.0, 'neu': 0.268, 'pos': 0.732, 'compound': 0.8481}",0.8481,Extremely positive
+268,269,Neutral,If you're using a iphone 12 dont go for this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+269,270,Positive,If iPhone 10/ 11 blindly purchase it Iphone 13 256 gb variant purchased from reliance digital really value for money phone especially battery back up is mind blowing overall good phone.,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.6801}",0.6801,Extremely positive
+270,271,Extremely positive,"Its a great deal for me to purchase this one , its a great camara well focused , best ever battery backup.....","{'neg': 0.0, 'neu': 0.432, 'pos': 0.568, 'compound': 0.9524}",0.9524,Extremely positive
+271,272,Extremely positive,"I recently got my iPhone 13 128 gb got amazed with the camera and other things……worth for ur money loved this product Play Video
+ Good experiance As a first time iPhone user, I was very confused to buy this iPhone 13 or 12 though price difference is manageable…so after all reviews and conclusion I went for iPhone 13 and now after one month usage I can say I have made very right choice.","{'neg': 0.034, 'neu': 0.805, 'pos': 0.161, 'compound': 0.8692}",0.8692,Extremely positive
+272,273,Neutral,Works very well for me.,"{'neg': 0.0, 'neu': 0.626, 'pos': 0.374, 'compound': 0.3384}",0.3384,Positive
+273,274,Neutral,"Be it camera, battery , display.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+274,275,Positive,Everything is just perfect…after all it’s an iPhone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+275,276,Neutral,And I am moderate user.. so I don’t play heavy games on this device..hence with normal usage it gives me approx 1.5 days battery back up.,"{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.3976}",0.3976,Positive
+276,277,Extremely positive,"Hope it helps to choose the right phone for you :-) Reviewing after 2 weeks of use :
+Cons : Only one cons that is Refresh Rate should be 90hz even 60hz works very fine
+Pros : Except that above cons ,everything is more than ( + ) the expectation ; up to the expectation is Night Camera Nice product!","{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.8997}",0.8997,Extremely positive
+277,278,Neutral,Came from ANdroid.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+278,279,Neutral,Android has its own perks.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+279,280,Negetive,"But as a daily driver and for doing simple tasks and click pics at go, its a reliab Today I got my iphone 13 Starlight and guess what it was just extra mind-blowing than my imagination.. just loved the way of packaging and delivery..
+One more thing is that we are confused sometimes because of the negative comments like fake phone, broken, clone phone received...","{'neg': 0.201, 'neu': 0.692, 'pos': 0.106, 'compound': -0.8271}",-0.8271,Extremely Negetive
+280,281,Extremely Negetive,"Believe me just ignore those stupid negative comment section , & just go for it without any hesitation .","{'neg': 0.41, 'neu': 0.513, 'pos': 0.077, 'compound': -0.831}",-0.831,Extremely Negetive
+281,282,Extremely Negetive,Because Nothing fraud is going to happen with you .,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.4717}",0.4717,Positive
+282,283,Positive,"It's very secure ,trusty .","{'neg': 0.0, 'neu': 0.245, 'pos': 0.755, 'compound': 0.7328}",0.7328,Extremely positive
+283,284,Extremely positive,Go for it Best camera phone and battery too good iPhone 13 is an amazing phone.,"{'neg': 0.0, 'neu': 0.544, 'pos': 0.456, 'compound': 0.8979}",0.8979,Extremely positive
+284,285,Positive,"I picked the green colour specifically because it’s the latest one and battery ought to be new, fresh out of the factory.","{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.3182}",0.3182,Positive
+285,286,Neutral,Got it for 62k after bank discount and old phone exchange.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+286,287,Extremely positive,"Cameras are amazing, performance is amazing.","{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.8225}",0.8225,Extremely positive
+287,288,Extremely positive,Battery is very good improvement over previous iPhones.,"{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.7559}",0.7559,Extremely positive
+288,289,Extremely Negetive,Only bummer is the lack of 20W charger in the box.,"{'neg': 0.353, 'neu': 0.647, 'pos': 0.0, 'compound': -0.5994}",-0.5994,Extremely Negetive
+289,290,Positive,100% recommended.,"{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.2023}",0.2023,Positive
+290,291,Positive,My dream is to buy this phone but pocket is so tight .,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.128}",0.128,Positive
+291,292,Neutral,Just a marichika to me.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+292,293,Neutral,Every day I think to have this .,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+293,294,Extremely positive,Absolutely amazing phone and its worth all the money.,"{'neg': 0.0, 'neu': 0.539, 'pos': 0.461, 'compound': 0.7178}",0.7178,Extremely positive
+294,295,Positive,Good battery life and very smooth.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,Positive
+295,296,Extremely positive,"IPhone is always best Excellent in every aspect, battery life is very good, lasts easily for 1-2 days.","{'neg': 0.0, 'neu': 0.504, 'pos': 0.496, 'compound': 0.9294}",0.9294,Extremely positive
+296,297,Positive,Worth buying.,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,Positive
+297,298,Positive,Excited.,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}",0.34,Positive
+298,299,Positive,first IPhone experience is great.,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6249}",0.6249,Extremely positive
+299,300,Neutral,While charging device is heats up quickly may be optimization issue.,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.3818}",0.3818,Positive
+300,301,Positive,Overall happy with Iphone 13 blue colour.,"{'neg': 0.0, 'neu': 0.619, 'pos': 0.381, 'compound': 0.5719}",0.5719,Extremely positive
+301,302,Positive,Previous mobile was one pluse 5 switched to i phone 13 and i am just fall in love with ios.,"{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6369}",0.6369,Extremely positive
+302,303,Neutral,Watch Lot of youtube videos about ios vs android and take decision to go for ios.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+303,304,Extremely positive,"Its super cool FaceID To good , Cameras 📸 Awosome, Battery Life Very Good .. It’s an awesome Bestest phone there is no comparison of iphone with any other phone.","{'neg': 0.054, 'neu': 0.542, 'pos': 0.404, 'compound': 0.9348}",0.9348,Extremely positive
+304,305,Neutral,Specially for picture quality.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+305,306,Extremely positive,Look wise also good I’m having blue colour I didn’t like that colour but white and black colour was not available at that moment that’s why i go for blue one.. well blue is also good.,"{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.882}",0.882,Extremely positive
+306,307,Extremely positive,Good phone Phone is very nice.,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.7178}",0.7178,Extremely positive
+307,308,Neutral,Adaptor should be provided.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+308,309,Positive,Battery life is very good.,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4927}",0.4927,Positive
+309,310,Neutral,Only drawback is its price.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+310,311,Positive,Overall it’s a good product.,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,Positive
+311,312,Extremely positive,Awesome Camera As this iPhone offers well stable iOS and one of the best hardwares this is a nice phone to buy Nice product and gorgeous...!,"{'neg': 0.0, 'neu': 0.507, 'pos': 0.493, 'compound': 0.9551}",0.9551,Extremely positive
+312,313,Positive,Very nice camera quality.,"{'neg': 0.0, 'neu': 0.492, 'pos': 0.508, 'compound': 0.4754}",0.4754,Positive
+313,314,Positive,Display is too good...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+314,315,Positive,Body is also good.,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,Positive
+315,316,Negetive,"Is has many hidden features than iphone 12 and 11 and all old products... Will give my score for each specs out of 5
+
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+316,317,Neutral,"Performance - 5/5
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+317,318,Neutral,"Camera - 5/5
+3.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+318,319,Neutral,"Battery life - 5/5
+4.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+319,320,Neutral,"Charging speed - 2/5
+5.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+320,321,Neutral,Sound quality - 4/5 I was looking to buy a new smartphone after my POCO F1 started having issues.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+321,322,Positive,"If you are someone like my who's looking to move from Android to iOS, don't think twice and go ahead with the purchase.","{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}",0.3612,Positive
+322,323,Positive,I got the phone on release day and the experience so far has been hassle free.,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.5106}",0.5106,Extremely positive
+323,324,Positive,"If you have any other Apple devices, then the decision is a no brainer since sum of the each part is greater than the individual ones.","{'neg': 0.079, 'neu': 0.83, 'pos': 0.09, 'compound': 0.0772}",0.0772,Positive
+324,325,Neutral,One thing Apple should work on is adding 120Hz screen and switch to Type C port.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+325,326,Positive,I'm more than happy with my purchase.,"{'neg': 0.0, 'neu': 0.601, 'pos': 0.399, 'compound': 0.6096}",0.6096,Extremely positive
+326,327,Extremely positive,"Worth product Very Nice mobile Best phone in the class
+And I am really happy with the phone and I really love it
+The best Very good phone Amazing phone with great features.","{'neg': 0.0, 'neu': 0.396, 'pos': 0.604, 'compound': 0.9877}",0.9877,Extremely positive
+327,328,Extremely positive,User friendly wont be switching to android again I think Buy iphone if you really want a product from Apple and if you want smart phone with lots of features go with android phones.,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.7956}",0.7956,Extremely positive
+328,329,Extremely positive,Best feature in iPhone 13 is only camera which gives best in class picture quality even in low light.,"{'neg': 0.079, 'neu': 0.604, 'pos': 0.317, 'compound': 0.8074}",0.8074,Extremely positive
+329,330,Neutral,Before time delivery and original product .,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",0.3182,Positive
+330,331,Extremely positive,Apple is beyond doubt the best phone maker have shifted from flagship samsung and liking the change .,"{'neg': 0.105, 'neu': 0.546, 'pos': 0.349, 'compound': 0.7003}",0.7003,Extremely positive
+331,332,Extremely positive,"The fit n fineese of ghe product is amazing , battery backup is superb and airdrop is super fast like a blink .","{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.9501}",0.9501,Extremely positive
+332,333,Extremely positive,I short must go for iphn 13 pretty well balanced and hopefully will last for 5yrs as my ipad which is running solid since 2017.,"{'neg': 0.0, 'neu': 0.676, 'pos': 0.324, 'compound': 0.8225}",0.8225,Extremely positive
+333,334,Neutral,Make the shift from android as apple ios is buttery smooth.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+334,335,Neutral, The name “iPhone 13” says it all.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+335,336,Extremely positive,I used to use iPhone 8 before this after using iPhone 8 it really gives me superb performance and have no complaints to it.The all new colour Green gives an awesome and new look.,"{'neg': 0.121, 'neu': 0.669, 'pos': 0.21, 'compound': 0.6771}",0.6771,Extremely positive
+336,337,Positive,"No regret for upgrading to iPhone 13  Amazing phone , Amazing Battery life , Stunning camera , and the videos are like wooooow , every one is sure to ask you which device did you use to upload these premium quality videos .","{'neg': 0.098, 'neu': 0.608, 'pos': 0.294, 'compound': 0.875}",0.875,Extremely positive
+337,338,Positive,Battery is rocking gives more than a day backup Good Display... Fast performance... Great battery life for an iPhone.,"{'neg': 0.0, 'neu': 0.696, 'pos': 0.304, 'compound': 0.7906}",0.7906,Extremely positive
+338,339,Extremely positive,"The phone is simply great, however costs much higher than the competition so not at all a value for money in india ,
+Camera - simply one of the best i have ever used in a phone
+Os - buttery smooth
+Battery - best in class as compared to previous iphones
+Display- one of the best display , but not a 60hz, you won’t notice the difference untill you get a iphone 13 pro for a whole day, however ios manage 60hz smoothly
+Security - the main reason i choose ios over anyother android, and yes its great and gives a peace of mind that my data is secured with ios.","{'neg': 0.013, 'neu': 0.728, 'pos': 0.259, 'compound': 0.9841}",0.9841,Extremely positive
+339,340,Positive,I also now enjoy my ipad more than before due to the eco system apple provided .,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}",0.4939,Positive
+340,341,Extremely positive,"Overall a great phone but a bit expensive to the functionality it offers , but would recommend iphone12 if you are looking for a great value for money.","{'neg': 0.0, 'neu': 0.579, 'pos': 0.421, 'compound': 0.9387}",0.9387,Extremely positive
+341,342,Positive,Not a great difference but that phone cost 30k less than iphone 13 on sales which is way better deal than this one.,"{'neg': 0.083, 'neu': 0.769, 'pos': 0.148, 'compound': 0.4025}",0.4025,Positive
+342,343,Neutral,First time I switched from android to ios .,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+343,344,Extremely positive,Yeah there is some points which I don’t like in ios but in aspect of phone (iPhone 13) I would say it’s fantastic.,"{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.8047}",0.8047,Extremely positive
+344,345,Neutral,And battery backup is really gud I have used it for avg.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+345,346,Negetive,4hrs screen on time and it show 20% left after 48hrs.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+346,347,Positive,Rest camera is perfect.,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,Extremely positive
+347,348,Neutral,"But i was disappointed from seller’s packaging ,pls improve ur packaging it’s iPhone person who spends 80k expect something from you.","{'neg': 0.157, 'neu': 0.643, 'pos': 0.2, 'compound': 0.0387}",0.0387,Positive
+348,349,Positive,"Scores high on style, looks, great camera, fast.","{'neg': 0.0, 'neu': 0.631, 'pos': 0.369, 'compound': 0.6249}",0.6249,Extremely positive
+349,350,Neutral,iPhone set-up from previous versions of iPhone is very very fast and smooth.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+350,351,Negetive,Entire set-up took just 10-15 mins and everything was copied over w/o any loss of data.,"{'neg': 0.133, 'neu': 0.867, 'pos': 0.0, 'compound': -0.3182}",-0.3182,Negetive
+351,352,Positive,Face ID set-up is very powerful.,"{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.4754}",0.4754,Positive
+352,353,Neutral,Battery life could be still better.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,Positive
+353,354,Neutral,Obviously price point could be a little more affordable.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+354,355,Extremely positive,Highly recommended to buy this phone as I have switched from Android to iOS but still I am feeling very comfortable to use this phone as it is user friendly.,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.9097}",0.9097,Extremely positive
+355,356,Extremely positive,"Amazon sells original product and keeps you updated about the delivery unlike other marketplaces and also provides great discounts which is amazing, so for the one's planning to buy can go ahead and choose Amazon to buy an iPhone.","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.9118}",0.9118,Extremely positive
+356,357,Neutral,I was not sure whether to buy from Amazon or not as I was more willing to buy it directly from Apple online store.,"{'neg': 0.083, 'neu': 0.845, 'pos': 0.072, 'compound': -0.0675}",-0.0675,Negetive
+357,358,Positive,"But because of 11k discount, I ordered it from Amazon and the product received is good and I have verified the warranty on Apple website using serial number.","{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.7469}",0.7469,Extremely positive
+358,359,Positive,First thanks to Amazon for providing the original product.,"{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.7096}",0.7096,Extremely positive
+359,360,Positive,Battery backup seems to be good which was the main issue with iPhones.,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,Positive
+360,361,Neutral,The only cons I have noticed is a low signal in some areas.,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}",-0.2732,Negetive
+361,362,Positive,"All of good 😊
+Fingerprint print reader is very fast ⏩ Initially, I thought of compromising with camera features and decided to buy iPhone 13.","{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.4404}",0.4404,Positive
+362,363,Negetive,"But now, I regret.","{'neg': 0.649, 'neu': 0.351, 'pos': 0.0, 'compound': -0.5719}",-0.5719,Extremely Negetive
+363,364,Extremely positive,"iPhone camera definitely needs improvement, otherwise iPhone is best.","{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.872}",0.872,Extremely positive
+364,365,Positive,You may also feel little heavy when compared to other leading flagship mobiles.,"{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.1027}",0.1027,Positive
+365,366,Neutral,There is a Light source flares on camera image when you direct your phone camera on light source.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+366,367,Neutral,This is creating green light spot on image.,"{'neg': 0.0, 'neu': 0.761, 'pos': 0.239, 'compound': 0.296}",0.296,Positive
+367,368,Negetive,It is problem with the iPhone lens.,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negetive
+368,369,Extremely positive,I don’t recommend this phone if you are a fan of camera.,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5859}",0.5859,Extremely positive
+369,370,Neutral,But you can use Snapseed app to remove it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+370,371,Extremely positive,My mom gifted me for birthday iPhone 13 was really good but sometimes it will heat apart from that mobile is good Each thing is good but as visible midnight Black that is totally different which I find so could be better if it's totally black or z black.,"{'neg': 0.0, 'neu': 0.742, 'pos': 0.258, 'compound': 0.9425}",0.9425,Extremely positive
+371,372,Positive,Not recommended All is well but siri doesn’t work maximum time.,"{'neg': 0.109, 'neu': 0.76, 'pos': 0.131, 'compound': 0.0654}",0.0654,Positive
+372,373,Negetive,Its too much boring to turn on and off siri to make it listen.,"{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.3182}",-0.3182,Negetive
+373,374,Extremely positive,apple always the best n perfect Good one but photos taken in this camera changing the originality.,"{'neg': 0.0, 'neu': 0.653, 'pos': 0.347, 'compound': 0.7096}",0.7096,Extremely positive
+374,375,Extremely positive,Call recording feature for Indians is needed for free of cost It’s was awesome its speed is great I play many games but battery is not good but it’s great firm simple use It’s good Absolute rip off.,"{'neg': 0.122, 'neu': 0.59, 'pos': 0.287, 'compound': 0.8117}",0.8117,Extremely positive
+375,376,Neutral,Phone keeps hanging.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+376,377,Neutral,"Its a topical iPhone similar to previous gens
+But the battery life is incredibly.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+377,378,Extremely positive,"Excellent Excessive heating while setup, backup n restore STARLIGHT AMAZING Nice performance So I ordered this phone from apple’s official website.","{'neg': 0.0, 'neu': 0.531, 'pos': 0.469, 'compound': 0.9222}",0.9222,Extremely positive
+378,379,Extremely positive,And have been using this for the past 1 week and trust me it has one of the best batteries you will find on any phone.,"{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.8176}",0.8176,Extremely positive
+379,380,Neutral,I am a moderate user when it comes to cellphones i.e the basic Instagram Facebook WhatsApp YouTube and Netflix.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+380,381,Neutral,This phone if charged fully lasts up to 24 hours if used moderately without any heavy gaming.,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2023}",-0.2023,Negetive
+381,382,Negetive,The reason I am writing this review is because of the useless comments of people that are rated high but can’t actually afford this phone.,"{'neg': 0.076, 'neu': 0.924, 'pos': 0.0, 'compound': -0.2263}",-0.2263,Negetive
+382,383,Extremely positive,Coming from one plus 6t this phone is a huge jump (I love my one plus… still using it as my work phone) but it is obviously a lot to adjust to since we are completely switching to a different OS seems like shifting to a different nation all together.,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.7579}",0.7579,Extremely positive
+383,384,Extremely positive,Anyway.. if you do have a good enough budget you should definitely go for this beauty The biggest improvement I have noted is the battery life.,"{'neg': 0.0, 'neu': 0.604, 'pos': 0.396, 'compound': 0.9201}",0.9201,Extremely positive
+384,385,Positive,It’s really good.,"{'neg': 0.0, 'neu': 0.385, 'pos': 0.615, 'compound': 0.4927}",0.4927,Positive
+385,386,Neutral,Upgraded from my 7 plus after 4.6 years.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+386,387,Positive,Another thing I like is MagSafe charging.,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,Positive
+387,388,Negetive,One of the main issue I face with my old phone was charging port failure due to dust accumulation.,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.5106}",-0.5106,Extremely Negetive
+388,389,Positive,MagSafe charge helps from above said issue.,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.3818}",0.3818,Positive
+389,390,Negetive,Of course we have to pay for that extra.,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.1027}",-0.1027,Negetive
+390,391,Positive,"Even though am enjoying bigger battery ,the thickness increased a bit and it is bit annoying.","{'neg': 0.134, 'neu': 0.594, 'pos': 0.272, 'compound': 0.4215}",0.4215,Positive
+391,392,Negetive,"My advice is it’s a highly paid model, so use it minimum 3 years.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+392,393,Positive,"Iphone 13(blue), Outlook looks good but not attractive, looks dim.","{'neg': 0.238, 'neu': 0.613, 'pos': 0.149, 'compound': -0.2867}",-0.2867,Negetive
+393,394,Neutral,"After usage of 20min, I can see fingerprints all over the phone.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+394,395,Positive,"Cinematic video features looks great, can't use Iphone 13 charging cable with other iphone adapters.","{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6249}",0.6249,Extremely positive
+395,396,Neutral,Finally my first iPhone experience is average.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+396,397,Neutral,The smartphone marketplace has changed drastically over the span of the past few years.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+397,398,Extremely positive,"Over the years, it has become more competitive than ever before with a lot of smartphone makers launching their flagship devices every six months.","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.3384}",0.3384,Positive
+398,399,Positive,"Amid these challenging times Apple, like a bunch of other companies, has maintained a yearly update cycle for its iPhones.","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.4767}",0.4767,Positive
+399,400,Neutral,"In this series, the company, as is customary, announced the iPhone 13 as its successor to last year’s iPhone 12.","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.2263}",0.2263,Positive
+400,401,Extremely positive,"The newly launched iPhone 13 delivers minor upgrades over the iPhone 12, which includes a smarter camera, a brighter display, a bigger battery and of course, a more advanced processor to name a few.","{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.8122}",0.8122,Extremely positive
+401,402,Neutral,Then there are features like a smaller notch and a less pronounced rear camera module that might seem insignificant compared to the mentioned features but make a world of difference when it comes to usage.,"{'neg': 0.051, 'neu': 0.897, 'pos': 0.052, 'compound': 0.0129}",0.0129,Positive
+402,403,Extremely positive,"Sure, it’s a tad bit heavier than the iPhone 12 but if you compare it with some of the older iPhone models, like the iPhone 11 or the iPhone XR that I have been using, for what seems like aeons now, you will be grateful for everything that the iPhone 13 offers.","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.9032}",0.9032,Extremely positive
+403,404,Extremely positive,Good offers Camera is not impressive comperative its old phones.,"{'neg': 0.199, 'neu': 0.588, 'pos': 0.213, 'compound': 0.0511}",0.0511,Positive
+404,405,Positive,Good Phone Same as I phone 12 😑.,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positive
+405,406,Extremely positive,Who so ever is reading this review I suggest go for I phone 12 Apple Marketing has done quite a good job month after month to keep people on their toes with their new launches where there is nothing great about this phone.,"{'neg': 0.074, 'neu': 0.854, 'pos': 0.072, 'compound': -0.0261}",-0.0261,Negetive
+406,407,Negetive,I have been on Android for almost inception of phones and switching to iPhone is just a pain.,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.5106}",-0.5106,Extremely Negetive
+407,408,Neutral,1,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+408,409,Positive,No guide or help to transfer your critical data(Move to iOS doesnt work at all with high amount of data transfer.,"{'neg': 0.179, 'neu': 0.714, 'pos': 0.107, 'compound': -0.2023}",-0.2023,Negetive
+409,410,Positive,"If you want to buy, go to brick and motor shop and get your data transfer then and there.","{'neg': 0.0, 'neu': 0.933, 'pos': 0.067, 'compound': 0.0772}",0.0772,Positive
+410,411,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+411,412,Positive,"Over hyped phone, nothing great i have found in the phone.","{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5096}",-0.5096,Extremely Negetive
+412,413,Neutral,May be i will find it better.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,Positive
+413,414,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+414,415,Neutral,Total stuck with ecosystem.,"{'neg': 0.4, 'neu': 0.6, 'pos': 0.0, 'compound': -0.25}",-0.25,Negetive
+415,416,Neutral,4,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+416,417,Neutral,At 90K they don't provide charger and are selling the same as extra.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+417,418,Positive,Total cheap strategy to earn more and promote their magsafe.,"{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.4364}",0.4364,Positive
+418,419,Positive,I am not a happy customer till now!,"{'neg': 0.397, 'neu': 0.603, 'pos': 0.0, 'compound': -0.509}",-0.509,Extremely Negetive
+419,420,Positive,"In a world where we talk about openness and open for integration, apple gives you a kind of black box... Boo to Apple!","{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4003}",0.4003,Positive
+420,421,Neutral,I switched from Oneplus 5t to iPhone 13.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+421,422,Neutral,The reasons I switched was 1.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+422,423,Positive,Battery life of Oneplus 5t deteriorated rapidly and OnePlus hardly cared to explain this.,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.3626}",0.3626,Positive
+423,424,Negetive,I also suspected that OnePlus deliberately created a bug that led to sudden drop in battery life.,"{'neg': 0.222, 'neu': 0.667, 'pos': 0.111, 'compound': -0.25}",-0.25,Negetive
+424,425,Neutral,2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+425,426,Positive,Wanted to get an Android phone but could not find even one decent phone that did not have heating issues.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+426,427,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+427,428,Negetive,Oneplus device also suffered from Screenburn.,"{'neg': 0.39, 'neu': 0.61, 'pos': 0.0, 'compound': -0.4939}",-0.4939,Negetive
+428,429,Negetive,"Having switched the battery life is sorted and the phone does not have any heating issues but iPhones lack basic features such as
+
+1.","{'neg': 0.114, 'neu': 0.886, 'pos': 0.0, 'compound': -0.4497}",-0.4497,Negetive
+429,430,Neutral,"Display of date and time on status bar
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+430,431,Negetive,The rounded edges of the phone create a problem as some apps with options at the bottom of the screen are not properly displayed.,"{'neg': 0.105, 'neu': 0.814, 'pos': 0.081, 'compound': -0.1531}",-0.1531,Negetive
+431,432,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+432,433,Positive,Amazon App does not allow purchase if Kindle books on iOS devices.,"{'neg': 0.125, 'neu': 0.748, 'pos': 0.127, 'compound': 0.0088}",0.0088,Positive
+433,434,Neutral,4,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+434,435,Negetive,Typing is a problem as the screen is smaller compared to a OnePlus device.,"{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negetive
+435,436,Positive,"Overall, I am neither too happy nor too sad with the purchase though I must confess that price of the phone seems exorbitant vis a vis the value delivered.","{'neg': 0.097, 'neu': 0.743, 'pos': 0.16, 'compound': 0.2396}",0.2396,Positive
+436,437,Neutral,"This is my first IPhone
+
+Phone looks and feels premium in hand, definitely you cannot compare with Chinese android phones.","{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.7096}",0.7096,Extremely positive
+437,438,Neutral,"Battery is sufficient for normal day to day use, if you use hotspot then it will be drained in 5 hours, I don’t play games so can’t comment.","{'neg': 0.087, 'neu': 0.83, 'pos': 0.083, 'compound': -0.0258}",-0.0258,Negetive
+438,439,Positive,"Security, OS and hardware comprised intact kudos to apple for that, this is where iPhone stands out from other phones.","{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.7579}",0.7579,Extremely positive
+439,440,Extremely positive,Volume and camera is amazing and you feel next level if you are switching from Chinese smart phones.,"{'neg': 0.0, 'neu': 0.711, 'pos': 0.289, 'compound': 0.7579}",0.7579,Extremely positive
+440,441,Neutral,Same Dolby and oled display feels premium in iphone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+441,442,Positive,"Didn’t explore much on apple eco system, how ever I understood that you need to spend some extra bugs than usual if you want to be a premium user of apple eco system.","{'neg': 0.0, 'neu': 0.958, 'pos': 0.042, 'compound': 0.0772}",0.0772,Positive
+442,443,Positive,"Nothing comes for free here, in fact you would loose the freedom of being an android user (less customisation and no side loaders)
+
+In a good way, if you respect your privacy, security and getting premium services in the market you should choose iPhone.","{'neg': 0.129, 'neu': 0.645, 'pos': 0.226, 'compound': 0.7505}",0.7505,Extremely positive
+443,444,Extremely positive,"New users are good to go for iPhone 13 with few extra grands with the current offers, you will get extra features that are missing in 12.","{'neg': 0.073, 'neu': 0.831, 'pos': 0.096, 'compound': 0.1779}",0.1779,Positive
+444,445,Positive,"12 users forget about upgrading to 13 it will be a joke for you, it won’t worth it.","{'neg': 0.095, 'neu': 0.7, 'pos': 0.205, 'compound': 0.296}",0.296,Positive
+445,446,Neutral,Reviewing after 2 months usage.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+446,447,Neutral,"+ve:
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+447,448,Neutral,"Battery
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+448,449,Neutral,"Display
+3.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+449,450,Neutral,"Camera
+
+-ve:
+1.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+450,451,Neutral,"Screen not responding in all the corners, I need to click three or four times
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+451,452,Neutral,"Portrait mode pictures , one plus does better than this
+3.","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,Positive
+452,453,Neutral,"Phone got Stuck three times
+4.","{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.25}",-0.25,Negetive
+453,454,Negetive,"When I play PUBG/BGMI fire button takes some time to respond (not sure it’s BGMI issue ) and also with mobile data BGMI not able to handle extreme graphics
+
+Note : these are all my experiences as new iPhone user who used Oneplus7 earlier.","{'neg': 0.053, 'neu': 0.843, 'pos': 0.104, 'compound': 0.3182}",0.3182,Positive
+454,455,Positive,Battery drains fast and it should not be priced more than Rs 60000 Good phone Supar I was a android user from long time and had a thought of shifting to ios .,"{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.4404}",0.4404,Positive
+455,456,Extremely positive,"IOS is awesome but not actually as android we can get samsung s20 with great value and compitable with 13 Not up to mark, somany glitches, and when contacts service support and centre physically both advise for formate and reset mobile, if u don’t want mobile for show off then go for better options with higher end android.","{'neg': 0.0, 'neu': 0.717, 'pos': 0.283, 'compound': 0.9645}",0.9645,Extremely positive
+456,457,Positive,"Siri not working proper
+Heating issues
+Back button missing I'm not satisfied with overall experience that this phone offers; camera, display, and feel are not good for this price.","{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.713}",-0.713,Extremely Negetive
+457,458,Positive,"tl;dr:
+If you can spend more money and want a better camera go with Pro or ProMax
+If you like the Apple EcoSystem you can get this else stick to Android
+
+Pros :
+1.","{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.7152}",0.7152,Extremely positive
+458,459,Extremely positive,Good Display / Brightness (Supports Dark mode and You can control White Tone which is nice).,"{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.6705}",0.6705,Extremely positive
+459,460,Neutral,"It has 60Hz refresh rate but you won't feel the difference imho
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+460,461,Extremely positive,Good Battery Life (iPhone 13 Series has good battery life but ensure you have a supported charger) I use my MacBook's charger which charges the phone pretty quickly.,"{'neg': 0.071, 'neu': 0.538, 'pos': 0.391, 'compound': 0.8979}",0.8979,Extremely positive
+461,462,Neutral,3,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+462,463,Neutral,"Best Privacy Control
+4.","{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}",0.6369,Extremely positive
+463,464,Positive,"Camera in Portrait Mode and Selfie Camera (LiveText Detection is a nice feature)
+5.","{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}",0.4215,Positive
+464,465,Positive,"Fast Processor / RAM management is good
+6.","{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positive
+465,466,Neutral,"Great Resale value / Apple Support
+
+Cons:
+
+1.","{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.8481}",0.8481,Extremely positive
+466,467,Neutral,"Screen size (6.1"" which is less in this price segment)
+2.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+467,468,Extremely positive,"Optical Zoom in 13 is not great (If you want a camera phone go with Pro or Pro Max or Android alternative)
+3.","{'neg': 0.134, 'neu': 0.813, 'pos': 0.053, 'compound': -0.4577}",-0.4577,Negetive
+468,469,Positive,Third Party App Size is Huge (Gmail is 300MB / YouTube 250 MB).,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6124}",0.6124,Extremely positive
+469,470,Negetive,"No native app lock option
+4.","{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+470,471,Positive,"Very Less OS customizations / No Fingerprint Scanner (hopeful this gets better with iOS 16)
+5.","{'neg': 0.109, 'neu': 0.729, 'pos': 0.163, 'compound': 0.2415}",0.2415,Positive
+471,472,Positive,"No Native Support for mkv and other video formats (you can download a third party though)
+6.","{'neg': 0.107, 'neu': 0.631, 'pos': 0.262, 'compound': 0.4939}",0.4939,Positive
+472,473,Negetive,Native iOS Apps either require a subscription or are paid.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+473,474,Neutral,7,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+474,475,Negetive,File Management is restricted / Not easy to download *multiple* files from Telegram / Drive Battery life is very poor The look is retrograde .,"{'neg': 0.307, 'neu': 0.693, 'pos': 0.0, 'compound': -0.8126}",-0.8126,Extremely Negetive
+475,476,Neutral,Feel is cheap.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+476,477,Neutral,Does not have physical double SIM.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+477,478,Neutral,The Airtel does not offer eSIM for prepaid connection.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+478,479,Neutral,Fortunately jio revised an eSIM that got activated in 2hrs’.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+479,480,Neutral,There is nothing so spectacular about the camera.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+480,481,Positive,The cinematic mode is good.,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,Positive
+481,482,Neutral,This is my first exposure to iphone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+482,483,Positive,Impression : As good as any high end handset.,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.5859}",0.5859,Extremely positive
+483,484,Positive,Android is really more user friendly.,"{'neg': 0.0, 'neu': 0.572, 'pos': 0.428, 'compound': 0.5778}",0.5778,Extremely positive
+484,485,Positive,Battery life for a new hand set is just good.,"{'neg': 0.0, 'neu': 0.534, 'pos': 0.466, 'compound': 0.7269}",0.7269,Extremely positive
+485,486,Neutral,Sustains 12hrs’ normal mixed use.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+486,487,Neutral,"Battery is draining faster Maja nai aaya sach bolu pichhla wala hi hai
+Kuch naya waya karte nai hai yeh apple waale bilkul maja nai aaya This product is duplicate of iPhone 12 only camera design changed.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+487,488,Extremely positive,"Very low quality of this product Buy Samsung mobile phone You should be a bigggggg bot to buy this phone
+You could get iPhone 12 Pro that’s the best 😂 There was a hairline scratch on the screen which is not clearly visible directly.","{'neg': 0.099, 'neu': 0.811, 'pos': 0.09, 'compound': 0.1403}",0.1403,Positive
+488,489,Neutral,"When we tried contacting Amazon for the replacement, they asked us to connect to apple and when connected to apple, they asked to connect with Amazon.","{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.34}",0.34,Positive
+489,490,Negetive,Blame game begins and we end up paying the price.,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.34}",-0.34,Negetive
+490,491,Neutral,Awfull service.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+491,492,Neutral,I am going to tag on the social media both Amazon and apple.,"{'neg': 0.0, 'neu': 0.866, 'pos': 0.134, 'compound': 0.1779}",0.1779,Positive
+492,493,Negetive,Such a big scam Just but iphone 12!,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.3903}",-0.3903,Negetive
+493,494,Positive,It’s not worth the money!,"{'neg': 0.329, 'neu': 0.671, 'pos': 0.0, 'compound': -0.2401}",-0.2401,Negetive
+494,495,Neutral,"Unless ur from BJP or something where you’re full with corrupt money, then go ahead.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+495,496,Neutral,i am poor and i cant afford it lmao xdxdxdxdxd so if you have money to flex buy it i am bored thats why i am writing this review while drinking coffee i have my chemistry exam on manday and cant study mole concept and got bored thats why i came here to write this review if you read this review til here very good you justt wasted your time now go and do something productive :) Price is very low than expected.,"{'neg': 0.176, 'neu': 0.756, 'pos': 0.068, 'compound': -0.8336}",-0.8336,Extremely Negetive
+496,497,Neutral,I don't buy cheap phones😜.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+497,498,Neutral,"Waiting for iPhone 20..........
+To buy A S A P I switched from Android to IOS.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+498,499,Neutral,There are so many things you can not do on iphone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+499,500,Extremely positive,If you want a phone which have good looks and phone doesn’t do anything else then you can buy iphone.,"{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}",0.4939,Positive
+500,501,Positive,Battery life is fine.,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.2023}",0.2023,Positive
+501,502,Positive,Charging speed is also fine.,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.2023}",0.2023,Positive
+502,503,Positive,Camera quality is also fine but some of android phones with this range have better camera quality than this one.,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.6428}",0.6428,Extremely positive
+503,504,Negetive,"Phone, Email & SMS management extremely unfriendly, primitive and restrictive
+Unnecessary animation on each action
+Very bad user experience This is just a brick.","{'neg': 0.248, 'neu': 0.752, 'pos': 0.0, 'compound': -0.764}",-0.764,Extremely Negetive
+504,505,Neutral,Cannot be used for calling or internet access unless you have wifi.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+505,506,Neutral,This device has serious network issues.,"{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.0772}",-0.0772,Negetive
+506,507,Neutral,My One Plus 9 Pro and Realme 7 shows 100% network bars and internet work fast enought to stream multiple HD videos at the same time (speed test result 45mbps - airtel postpaid).,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+507,508,Neutral,But this apple device shows only 1 bar and sometimes none.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+508,509,Neutral,You can't do anything other than just looking at phone.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+509,510,Neutral,I kept 9 pro and iphone 13 at the same place at the same time having airtel postpaid sim card inserted.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+510,511,Neutral,OnePlus gets full coverage of same network while iPhone gets only 1 bar coverage which cannot be used for anything.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+511,512,Neutral,"When I checked online, found that a lot of people facing same network issue with iPhone 13 series.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+512,513,Positive,"Seriously, I would not recommend anyone to buy this brick.","{'neg': 0.352, 'neu': 0.648, 'pos': 0.0, 'compound': -0.4234}",-0.4234,Negetive
+513,514,Negetive,Apple making fools of images ridden duffers.,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.4939}",-0.4939,Negetive
+514,515,Positive,"Overpriced phone, don't have bsic features like 120 hz display, only 3100 mah battery.","{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}",0.3612,Positive
+515,516,Neutral,Please don't buy iphone from Amazon as I have received the box with broken seal.,"{'neg': 0.171, 'neu': 0.608, 'pos': 0.221, 'compound': -0.0258}",-0.0258,Negetive
+516,517,Negetive,You can only replace and there is no option to refund.,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+517,518,Neutral,So guys beware.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+518,519,Positive,"Have Dent on the edge after checking trying to replace the product but we unable i have try many ways to replace so please don,t buy fom online plateform this expensive phones .","{'neg': 0.0, 'neu': 0.883, 'pos': 0.117, 'compound': 0.6107}",0.6107,Extremely positive
+519,520,Extremely positive,"Phone delivered to me on 28 feb 2022 and the phone is already reseted on 25 Jan 22 no words Same as iphone 12 expect camara not satisfied go with I phone 12 if you want best camara then I phone 13 Headset of my iPhone is not working
+What can i do Front camera wasn’t working.","{'neg': 0.075, 'neu': 0.833, 'pos': 0.092, 'compound': 0.2425}",0.2425,Positive
+520,521,Neutral,Got a defective piece.,"{'neg': 0.592, 'neu': 0.408, 'pos': 0.0, 'compound': -0.4404}",-0.4404,Negetive
+521,522,Negetive,Battery life is worst .,"{'neg': 0.577, 'neu': 0.423, 'pos': 0.0, 'compound': -0.6249}",-0.6249,Extremely Negetive
+522,523,Neutral,Even normal use call whatsapp battery drain fast 1 day backup only .,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+523,524,Positive,Don't go for iphone 13 if u want battery backup.,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.0772}",0.0772,Positive
+524,525,Negetive,And Android user don't go for iOS lot of disadvantages are there.,"{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.4019}",-0.4019,Negetive
+525,526,Negetive,And don't waste money.,"{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.3252}",0.3252,Positive
+526,527,Neutral,U can go for higher range Android.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+527,528,Neutral,The battery has been draining significantly.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+528,529,Extremely positive,Customer service were not that helpful and I'm losing my mind to resolve this.,"{'neg': 0.266, 'neu': 0.594, 'pos': 0.14, 'compound': -0.3252}",-0.3252,Negetive
+529,530,Negetive,I'm so disappointed in myself for buying this phone.,"{'neg': 0.298, 'neu': 0.702, 'pos': 0.0, 'compound': -0.5256}",-0.5256,Extremely Negetive
+530,531,Negetive,What a terrible experience Gave scratched phone as and screen broken and also denied for return Not at all worth the wait and price.,"{'neg': 0.362, 'neu': 0.638, 'pos': 0.0, 'compound': -0.8679}",-0.8679,Extremely Negetive
+531,532,Neutral,I phone 11 and 12 were better version at this price points.,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}",0.4404,Positive
+532,533,Neutral,Nothing much has been changed.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+533,534,Positive,Check before you buy and make a good decision.,"{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}",0.4404,Positive
+534,535,Neutral,i think i got duplicate mobile Battery charging very slow not a good option to buy iPhone 13 face unlock below standard The phone is heating badly when put on charge.,"{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.6975}",-0.6975,Extremely Negetive
+535,536,Neutral,"And when on use of 15mins , the phone is getting heated up overpriced phone Na Heating heating heating.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+536,537,Neutral,"Not expected from a phone with such price Defective piece, can’t contact the seller too I received used Mobile No big upgrades at all!!","{'neg': 0.221, 'neu': 0.779, 'pos': 0.0, 'compound': -0.6892}",-0.6892,Extremely Negetive
+537,538,Neutral,It’s the same as iPhone 12 except that they changed the camera designed!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+538,539,Neutral,Apple STOP FOOLING US You can buy two to three Samsung/Other best mobiles with this specifications.. not up to the mark.,"{'neg': 0.223, 'neu': 0.63, 'pos': 0.147, 'compound': -0.2883}",-0.2883,Negetive
+539,540,Negetive,Only camera got changed compared to iPhone 12 Very expensive and not working well as I was thinking about it so I think this is my wrong selection.,"{'neg': 0.17, 'neu': 0.83, 'pos': 0.0, 'compound': -0.6012}",-0.6012,Extremely Negetive
+540,541,Neutral,wastage of money.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+541,542,Neutral,better go for Iphone 12 pro.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,Positive
+542,543,Positive,amazon Great indian sale also ll be there at 4th oct just grab ip12pro with huge discount.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.7964}",0.7964,Extremely positive
+543,544,Positive,"and iphone13 assembled in China but 12pro assamble in India I don’t know why they are doing this kind of things i mean at 70k even you don’t get the 120hz display, at least 90hz must be there.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+544,545,Positive,"Only camera improvement, instead selling phones why they don’t sell apple DSLRs .","{'neg': 0.0, 'neu': 0.786, 'pos': 0.214, 'compound': 0.4588}",0.4588,Positive
+545,546,Extremely positive,"This product is not worth for its money
+If u r switching 1st time from android, then you will feel scrolling is very slow in it, refresh rate just 60hz, even screen is just 6.1 with big notch, making it look small, if you really have good amount of money, then buy only pro max series with 6.7 inch screen, expect camera, everything is better in android Go for I phone 12 guy's ..","{'neg': 0.022, 'neu': 0.898, 'pos': 0.08, 'compound': 0.6611}",0.6611,Extremely positive
+546,547,Neutral,"I suggest you for it ..
+Buy I phone 12 only .","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+547,548,Extremely Negetive,"Ok I had iPhone 12 already… I couldn’t found a reason to upgrade to 13.. moreover he has getting outlooks so better which is very important… Samsung, oneplus and so many outlooks are far better.. we have to change the mindset of those people that we even reject iPhone worst models.. this is 3rd flop in their series.. 1st 5C, 2nd 7 The biggest issues starts when u buy iPhone and the phone cries for getting signal for you.","{'neg': 0.139, 'neu': 0.792, 'pos': 0.069, 'compound': -0.7148}",-0.7148,Extremely Negetive
+548,549,Positive,If don’t trust buy iPhone and experience it.,"{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}",0.5106,Extremely positive
+549,550,Extremely Negetive,"No big difference between iphone 12 and 13 , waste of money , infact iphone 12 is better than iphone 13 This phone sucks buy samsung, buy oppo, buy oneplus, even mi is better than crap apple.","{'neg': 0.225, 'neu': 0.646, 'pos': 0.129, 'compound': -0.5106}",-0.5106,Extremely Negetive
+550,551,Negetive,Don't but this crap.,"{'neg': 0.571, 'neu': 0.429, 'pos': 0.0, 'compound': -0.6124}",-0.6124,Extremely Negetive
+551,552,Negetive,"I regretted it, you will too.","{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}",-0.3818,Negetive
+552,553,Neutral,The back camera was not working.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+553,554,Neutral,Flash light was also not working.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+554,555,Negetive,Most importantly Amazon denies the replacement or refund.,"{'neg': 0.242, 'neu': 0.396, 'pos': 0.362, 'compound': 0.13}",0.13,Positive
+555,556,Positive,I went to the apple service centre they kept the phone and worked like snail.,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}",0.3612,Positive
+556,557,Neutral,Still they are diagnosing the issue.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+557,558,Negetive,You have to pay 95000+ for this stupid phone which doesn’t make any sense especially when they don’t even pack a charger and 120hz display in such an expensive phone.,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.6597}",-0.6597,Extremely Negetive
+558,559,Neutral,Buy Google pixel phone instead.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+559,560,Neutral,"Could've been better, this is just such a small update..","{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}",0.4404,Positive
+560,561,Neutral,"I'd say stick to your old iPhone 12 if you have it.. if not then maybe think of buying this Everything almost similar to iPhone 12, either go iphone 12 only or samsung if Android is not an issue.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+561,562,Neutral,Overrated product.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+562,563,Neutral,Nothing new.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+563,564,Negetive,I had a bad experience….,"{'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}",-0.5423,Extremely Negetive
+564,565,Neutral,"My unlock button is not working properly, at times it’s not unlocking my phone.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+565,566,Neutral,I bought the phone from India on the first week of its launch.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+566,567,Negetive,No biometrics with many UI flaws.,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.296,Negetive
+567,568,Neutral,Too expensive at 90K range.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+568,569,Neutral,Better wait for new versions so that the price will drop for this version substantially.,"{'neg': 0.117, 'neu': 0.722, 'pos': 0.161, 'compound': 0.2023}",0.2023,Positive
+569,570,Positive,"SLIGHT speed difference, more batter backup for more than 12 Not worth it Go for 12 instead.. No difference at all Not buy due to money problems.aspo jui fds bgf and tell i am senior citizen 65 years old will be there I bought this phone Bcoz I have lot of money to showoff.","{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.434}",-0.434,Negetive
+570,571,Neutral,"Country of Origin China,
+you can decide your own.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+571,572,Neutral,But India origin and manufacture only.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0,Neutral
+572,573,Positive,Thank you for considering it.,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,Positive
+573,574,Positive,Camera quality very bad like Android phone below Rs 4000 is this original product or duplicate product what to do or any option for camera setting I tried all settings option but not satisfied camera quality.,"{'neg': 0.135, 'neu': 0.773, 'pos': 0.092, 'compound': -0.4005}",-0.4005,Negetive
+574,575,Neutral,Android are way better than iOS Its better to buy samsung or nokia,"{'neg': 0.0, 'neu': 0.655, 'pos': 0.345, 'compound': 0.7003}",0.7003,Extremely positive
